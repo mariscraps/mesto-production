@@ -1,4 +1,4 @@
-https://mariscraps.github.io/mesto-production/ 
+Ссылка на проект: https://mariscraps.github.io/mesto-production/
 
 Установка зависимостей: npm.cmd install
 
